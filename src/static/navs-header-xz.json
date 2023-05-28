@@ -1,0 +1,44 @@
+{
+  "data" : [      
+    { 
+      "name": "Home",
+      "text": "", "icon":"bx bx-home",
+      "link": "home",
+      "user": ["user", "team"],
+      "subs": ["lite"],
+      "actv": true
+    },
+    { 
+      "name": "Demo",
+      "text": "", "icon":"bx bx-ball",
+      "link": "transferx/create",
+      "user": ["user", "team"],
+      "subs": ["lite"],
+      "actv": true
+    },     
+    { 
+      "name": "Assets",
+      "text": "", "icon":"bx bx-diamond",
+      "link": "assets",
+      "user": ["user", "team"],
+      "subs": ["lite"],
+      "actv": false
+    },
+    { 
+      "name": "Network",
+      "text": "", "icon":"bx bx-user-circle",
+      "link": "assets",
+      "user": ["user", "team"],
+      "subs": ["lite"],
+      "actv": false
+    },     
+    { 
+      "name": "Transfers",
+      "text": "", "icon":"bx bx-check-circle",
+      "link": "transfers",
+      "user": ["user", "team"],
+      "subs": ["lite"],
+      "actv": false
+    }
+  ]
+}
