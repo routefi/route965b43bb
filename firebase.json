@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "route965b43bb",
     "public": "build",
     "ignore": [
       "firebase.json",
